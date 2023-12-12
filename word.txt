@@ -3,7 +3,7 @@
 #include <algorithm>
 
 using namespace std;
-
+//
 // 加密函数
 string encryptPassword(string password) {
     for (int i = 0; i < password.length(); i++) {
